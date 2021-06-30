@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #008000;
+    padding: 10px;
+
+}
+
+
+
+.quem-somos{
+    background-color: #FF8C00;
+    color: whitesmoke;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    
+}
+
+.margin p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.parceiros h3{
+    padding-bottom: 30px;
+    color: whitesmoke;
+}
+
+.parceiros{
+    background-color: 	#FFA500;
+    
+}
+
+.imagem{
+    padding: 10px;
+}
+
+.bg-footer{
+    background-color: #ffa600ea;
+    padding-bottom: 30px;
+    color: white;
+}
